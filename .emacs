@@ -1,4 +1,4 @@
-;;; For using emacs keybindings with russian keymap in Linux Desktop.
+;;;; For using emacs keybindings with russian keymap in Linux Desktop.
 
 (defun reverse-input-method (input-method)
   "Build the reverse mapping of single letters from INPUT-METHOD."
